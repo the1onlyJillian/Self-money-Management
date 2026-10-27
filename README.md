@@ -18,21 +18,6 @@ Charts: Chart.js
 Icons: Font Awesome 6
 
 
-📁 Struktur File
-text
-self-money-manager/
-├── 📄 config.php         # Konfigurasi database
-├── 📄 hapus.php          # Hapus transaksi
-├── 📄 index.php          # Halaman utama
-├── 📄 proses.php         # Proses tambah transaksi  
-├── 📄 style.css          # Custom styling
-├── 📄 target.php         # Management target
-├── 📁 assets/           # Asset files
-│   ├── 📁 css/         # CSS files
-│   └── 📁 js/          # JavaScript files
-└── 📄 README.md         # Dokumentasi ini
-
-
 🎮 Cara Penggunaan
 
 📊 Tambah Transaksi
